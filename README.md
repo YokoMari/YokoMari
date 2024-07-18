@@ -171,7 +171,8 @@
 <div align="center">
   <h2>:star2: Profile Stats :star2:</h2>
   <img width=350em src="https://github-readme-stats-salesp07.vercel.app/api?username=YokoMari&count_private=true&title_color=ffffff&icon_color=006ab6&text_color=bac1c6&bg_color=161b22&show_icons=true&rank_icon=github&border_radius=5" alt="readme stats" />
-  <img width=310em src="https://github-readme-stats.vercel.app/api/top-langs?username=YokoMari&locale=en&hide_title=false&layout=compact&langs_count=10&title_color=ffffff&cache_seconds=20000&icon_color=0096ff&text_color=bac1c6&bg_color=161b22&border_radius=3" alt="languages graph"/>
+  <!-- <img width=310em src="https://github-readme-stats.vercel.app/api/top-langs?username=YokoMari&locale=en&hide_title=false&layout=compact&langs_count=10&title_color=ffffff&cache_seconds=20000&icon_color=0096ff&text_color=bac1c6&bg_color=161b22&border_radius=3" alt="languages graph"/> !-->
+  <img width=310em src="https://github.com/YokoMari/Recursos/blob/fd3820b3b42027438816f2d73e16595550308375/CositasPerfilGithub/LenguajesMasUsados.svg" alt="languages graph"/>
 </div>
 
 <!-- Contribucciones - juego Serpiente !-->
