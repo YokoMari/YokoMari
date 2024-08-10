@@ -37,8 +37,8 @@
 
   <h2>:star2: Profile Stats :star2:</h2>
 
-  <img width=410em src="https://github-readme-stats-salesp07.vercel.app/api?username=YokoMari&count_private=true&title_color=ffffff&icon_color=006ab6&text_color=bac1c6&bg_color=161b22&show_icons=true&rank_icon=github&border_radius=7" alt="readme stats" />
-  <img width=310em src="https://github-readme-stats.vercel.app/api/top-langs?username=YokoMari&locale=en&hide_title=false&layout=compact&langs_count=10&title_color=ffffff&cache_seconds=20000&icon_color=0096ff&text_color=bac1c6&bg_color=161b22&border_radius=5" alt="languages graph"/>
+  <img width=400em src="https://github-readme-stats-salesp07.vercel.app/api?username=YokoMari&count_private=true&title_color=ffffff&icon_color=006ab6&text_color=bac1c6&bg_color=161b22&show_icons=true&rank_icon=github&border_radius=7" alt="readme stats" />
+  <img width=355em src="https://github-readme-stats.vercel.app/api/top-langs?username=YokoMari&locale=en&hide_title=false&layout=compact&langs_count=10&title_color=ffffff&cache_seconds=20000&icon_color=0096ff&text_color=bac1c6&bg_color=161b22&border_radius=5" alt="languages graph"/>
 
 </div>
 
@@ -46,8 +46,8 @@
 <div align="center">
 
   <h2>🐍 My Contributions 🐍</h2>
-  
-  <img  src="https://github.com/YokoMari/Recursos/blob/095451ac2218a500e45103ca7335952a05404e68/github-user-contribution.svg" alt="snake" width="80%"/><br>
+
+  <img  src="https://github.com/YokoMari/Recursos/blob/095451ac2218a500e45103ca7335952a05404e68/github-user-contribution.svg" alt="snake" width="80%"/>
 
   <img src="https://streak-stats.demolab.com?user=YokoMari&theme=github-dark-blue&border_radius=5&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=650&card_height=150&background=161B22&ring=00C647&fire=EB5E0C" alt="GitHub Streak"/>
 
