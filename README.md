@@ -47,7 +47,7 @@
 
   <h2>🐍 My Contributions 🐍</h2>
 
-  <img  src="https://github.com/YokoMari/Recursos/blob/095451ac2218a500e45103ca7335952a05404e68/github-user-contribution.svg" alt="snake" width="80%"/>
+  <img  src="https://github.com/YokoMari/YokoMari/blob/3ab3455a0cd349a39187a95b3b98bd618f93785a/assets/contribution-08-24.svg" alt="snake" width="80%"/>
 
   <img src="https://streak-stats.demolab.com?user=YokoMari&theme=github-dark-blue&border_radius=5&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=650&card_height=150&background=161B22&ring=00C647&fire=EB5E0C" alt="GitHub Streak"/>
 
